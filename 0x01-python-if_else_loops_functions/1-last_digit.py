@@ -10,4 +10,4 @@ if last_dig > 5:
 elif last_dig == 0:
     print(f"{the_string} and is 0")
 elif last_dig < 6:
-    print(f"{the_string} and is less than 6")
+    print(f"{the_string} and is less than 6 and not 0")
